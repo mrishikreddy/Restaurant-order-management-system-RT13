@@ -1,6 +1,6 @@
-# Food Ordering System
+# Restaurant order management system
 
-Welcome to the **Food Ordering System**, a C-based console application designed to manage food orders efficiently. This project provides a straightforward interface for placing, removing, searching, and displaying orders, as well as calculating total sales. It's perfect for small restaurants, cafes, or anyone looking to streamline their order management process.
+Welcome to the **Restaurant order management system**, a C-based console application designed to manage food orders efficiently. This project provides a straightforward interface for placing, removing, searching, and displaying orders, as well as calculating total sales. It's perfect for small restaurants, cafes, or anyone looking to streamline their order management process.
 
 ## Table of Contents
 - [Features](#features)
