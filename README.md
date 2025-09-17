@@ -23,7 +23,7 @@ To set up the **Food Ordering System**, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/food-ordering-system.git
+   git clone https://github.com/mrishikreddy/Restaurant-order-management-system-RT13.git
    cd food-ordering-system
    ```
 
